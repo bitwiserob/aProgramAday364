@@ -14,3 +14,4 @@ List Of Programs
 |Day		|Program		|Description|
 |-----------|---------------|-----------|
 |1			|CopyInputToFile|A small gui program that simply takes some input from a text area and copies it to a file|
+|2          |HTML tag text extractor|A gui program that extracts the text content from a selected tag from a URL|
