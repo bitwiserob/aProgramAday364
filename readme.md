@@ -8,6 +8,10 @@ Rules
 2. Program must be more complicated then a hello world program or something similar.
 3. Program must be completed once a day starting from 2018-01-11
 
+Disclaimer:
+---
+The programs presented here are quick prototypes usually completed within a few hours. Due to the time constraints associated with making a program everyday, each program only has enough testing to ensure basic functionally. There is also no error handling unless it was essential to the base functionally of the program.  
+
 List Of Programs
 ---
 
@@ -19,3 +23,4 @@ List Of Programs
 |4			|Ping ip		|A simple gui program that pings an address and outputs the ping results to the gui.| 
 |5			|Get Current weather| A gui program that outputs information about the current weather in a selected city using an api call.| 
 |6			|Email Sender| A gui email client that can be used to send emails.| 
+|7			|explosm comic viewer| Displays a random comic from the popular webcomic hosted on http://explosm.net |
