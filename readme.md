@@ -26,3 +26,4 @@ List Of Programs
 |7			|Explosm comic viewer| Displays a random comic from the popular webcomic hosted on http://explosm.net |
 |8			|Current weather email sender| A command line script that takes an gmail address and password as command line arguments, then sends a email containing the current weather and a link to the lastest explosm comic.|
 |9			|BBC rss parse| A program that parses the bbc news rss and sends a email to someone containing 10 article titles, date published and a link to the article.|
+|10		    |Current Weather webApp| A web application version of the day 05 program which uses flask to display the current weather of a city that the user enters.|

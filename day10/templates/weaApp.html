@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block body %}
+<h1>Get current weather</h1>
+
+
+<h2>Enter City:</h2>
+<form method="POST" action='/results'>	
+<input type="text" name="name" width="60">
+<input type="SUBMIT" value="submit">
+</form>
+{% endblock %}
