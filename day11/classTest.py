@@ -7,7 +7,6 @@ emailer = emailHandler('user email','user password')
 #2 = yahoo
 emailer.selectServer(0)
 emailer.createSMTPobject()
-
 #enter the email of a recipent
 emailer.setRecipent('email')
 #generate the email, args: subject line, email body
