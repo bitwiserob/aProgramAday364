@@ -28,3 +28,4 @@ List Of Programs
 |9			|BBC rss parse| A program that parses the bbc news rss and sends a email to someone containing 10 article titles, date published and a link to the article.|
 |10		    |Current Weather webApp| A web application version of the day 05 program which uses flask to display the current weather of a city that the user enters.|
 |11			|Email helper class| Not really a program, but a class that was created to make sending emails easier using emailHandler objects.|
+|12			|send mutiple emails web app(INCOMPLETE)|A half working web application using flask that will send the weather to mutiple emails that are entered in a web interface.|

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block body %}
+<h1>Login to email</h1>
+<form action="/sendMail.html" method="POST">
+	Email:<br>
+	<input type="email" name="email"><br>
+	Password:<br>
+	<input type="password" name="password">
+	<br>
+	<input type="SUBMIT" value="submit">
+</form> 
+
+{% endblock %}

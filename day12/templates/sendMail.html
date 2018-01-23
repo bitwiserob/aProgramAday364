@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block body %}
+<h4>Enter emails seperated by a comma</h4>
+<form method="POST" action='/results'>	
+<textarea name="emails" rows="10" cols="30"></textarea> 
+<p>Enter city name:</p>
+<input type="text" name="city">
+<input type="SUBMIT" value="submit">
+</form>
+{% endblock %}
