@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block body %}
+<p>Dreambrief beta sign up</p>
+
+
+<form method="POST" action="/results">	
+	Email:<br>
+	<input type="email" name="UserEmail">
+	<br>
+	name:
+	<br>
+	<input type="name" name="UserName">
+	<br>
+	Comments:<br>
+	<textarea name="comments" placeholder="Write a few sentences about why you are excited about dreambrief!"></textarea>
+	<input type="submit" value="sign up!">
+</form>
+{% endblock %}

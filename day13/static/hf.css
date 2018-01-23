@@ -1,0 +1,81 @@
+body {
+  background-color: #1F4788; 
+  margin-top:       5%;
+  margin-bottom:    5%;
+  margin-left:      10%;
+  margin-right:     10%;
+  border:           1px solid gray;
+  padding:          10px 10px 10px 10px;
+}
+html {  
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size:        medium;
+  font-color:#26A65B;
+  background-color: #4DAF7C;
+}
+textarea{
+  height:15em;
+  width:50em;
+  font-family: Arial;
+}
+a {
+  text-decoration:  none; 
+  font-weight:      600; 
+}
+a:hover {
+  text-decoration:  underline;
+}
+a img {
+  border:           0;
+}
+table {
+  margin-left:      20px;
+  margin-right:     20px;
+  caption-side:     bottom;
+  border-collapse:  collapse;
+}
+td, th {
+  padding:          5px;
+  text-align:       left;
+}
+.copyright {
+  font-size:        75%;
+  font-style:       italic;
+}
+.slogan {
+  font-size:        75%;
+  font-style:       italic;
+}
+.confirmentry {
+  font-weight:      600; 
+}
+
+/*** Tables ***/
+
+table {
+font-size:          1em;
+background-color:   #fafcff;
+border:             1px solid #909090;
+color:              #2a2a2a;
+padding:            5px 5px 2px;
+border-collapse:    collapse;
+}
+
+td, th {
+border:             thin solid gray;
+}
+
+/*** Inputs ***/
+input[type=text] {
+  font-size:        115%;
+  
+}
+input[type=submit] {
+  font-size:        125%;
+}
+select {
+  font-size:        125%;
+}
+h1 {
+	text-align: center;
+}

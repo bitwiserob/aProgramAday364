@@ -29,3 +29,4 @@ List Of Programs
 |10		    |Current Weather webApp| A web application version of the day 05 program which uses flask to display the current weather of a city that the user enters.|
 |11			|Email helper class| Not really a program, but a class that was created to make sending emails easier using emailHandler objects.|
 |12			|send mutiple emails web app(INCOMPLETE)|A half working web application using flask that will send the weather to mutiple emails that are entered in a web interface.|
+|13			|EmailLog| A mockup for a web applcation email registration form using flask. User enters a email, user name and comment that is then inserted into a database using python.| 
