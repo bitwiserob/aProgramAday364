@@ -31,3 +31,4 @@ List Of Programs
 |12			|send mutiple emails web app(INCOMPLETE)|A half working web application using flask that will send the weather to mutiple emails that are entered in a web interface.|
 |13			|EmailLog| A mockup for a web applcation email registration form using flask. User enters a email, user name and comment that is then inserted into a database using python.| 
 |14			|Send Weather Emails| A flask web app that can send the current weather in a city to mutiple emails that are entered in the web interface. The email is a HTML message can be styled in anyway that is supported by clients.(working remake of day 12)|
+|15			|Refactored Classes| Due to computer issues, there was only time to clean up the email helper class and the weather helper class.|
