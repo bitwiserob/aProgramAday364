@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block body %}
+<h3>register to receive daily weather emails!</h3>
+<form action="/register" method="POST">
+	Email <br>
+	<input type="email" name="userEmail">
+	<br>
+	name
+	<br>
+	<input type="text" name="name">
+	<br>
+	City
+	<br>
+	<input type="text" name="city">
+	<br>
+	<input type="submit" value="submit">
+</form>
+<form action="/admin">
+	<input type="submit" value="go to admin panel">
+</form>
+{% endblock %}
