@@ -33,3 +33,4 @@ List Of Programs
 |14			|Send Weather Emails| A flask web app that can send the current weather in a city to mutiple emails that are entered in the web interface. The email is a HTML message can be styled in anyway that is supported by clients.(working remake of day 12)|
 |15			|Refactored Classes| Due to computer issues, there was only time to clean up the email helper class and the weather helper class.|
 |16			|Weather Email Web App| Part 1 of a mockup webapp that allows users to register using their emails and city name. The webapp then stores this infomation in a database. Part 2 will build upon this by having a control panel that can send everyone in the database a email containing the weather.|
+|17			|Weather Email Web App| Part 2. Added the ablitiy to send everyone in the database a email using the methods used in day 14.|
