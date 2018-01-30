@@ -35,3 +35,4 @@ List Of Programs
 |16			|Weather Email Web App| Part 1 of a mockup webapp that allows users to register using their emails and city name. The webapp then stores this infomation in a database. Part 2 will build upon this by having a control panel that can send everyone in the database a email containing the weather.|
 |17			|Weather Email Web App| Part 2. Added the ablitiy to send everyone in the database a email using the methods used in day 14.|
 |18         |Refactored the Email Web App| Made code about 98% more pep8 compliant and less likely to cause bleeding from eyes.|
+|19			|basic postgresql interaction| A small flask app that interacts with a postgresql database and displays items from the database|
