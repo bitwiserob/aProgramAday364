@@ -36,3 +36,4 @@ List Of Programs
 |17			|Weather Email Web App| Part 2. Added the ablitiy to send everyone in the database a email using the methods used in day 14.|
 |18         |Refactored the Email Web App| Made code about 98% more pep8 compliant and less likely to cause bleeding from eyes.|
 |19			|basic postgresql interaction| A small flask app that interacts with a postgresql database and displays items from the database|
+|20			|postgresql weather|A small application that gets weather data for the cities in a list and then inserts that data into a database.|
