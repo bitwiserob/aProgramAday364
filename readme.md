@@ -38,4 +38,5 @@ List Of Programs
 |19			|basic postgresql interaction| A small flask app that interacts with a postgresql database and displays items from the database|
 |20			|postgresql weather|A small application that gets weather data for the cities in a list and then inserts that data into a database.|
 |21			|day 20 + day 16| Moved the weather email app to postgresql and added interaction between the user table and weather table. The webapp gets all the cities from the user table, then gets the weather for those cities and adds the weather data to the weather table.|
-|22			|Weather email app(the SQLquel)| Building on day 21, added the ablitiy to send people emails by retrieving their infomation from one database, then retrieving weather data from another database, sticking it together and sending it.| 
+|22			|Weather email app(the SQLquel)| Building on day 21, added the ablitiy to send people emails by retrieving their infomation from one database, then retrieving weather data from another database, sticking it together and sending it.|
+|23			|Small pyglet not-quite-a-game| Spent time learning pyglet and drawing sprites on a window.|
