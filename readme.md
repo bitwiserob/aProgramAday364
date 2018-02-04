@@ -41,3 +41,4 @@ List Of Programs
 |22			|Weather email app(the SQLquel)| Building on day 21, added the ablitiy to send people emails by retrieving their infomation from one database, then retrieving weather data from another database, sticking it together and sending it.|
 |23			|Small pyglet not-quite-a-game| Spent time learning pyglet and drawing sprites on a window.|
 |24         |pyglet-not-a-game| Spent more time breaking things in pyglet|
+|25         |Weather Email App part 1|Set up the front end of a weather email app that is going to be the same as the one from day 22, but made using node.js, express and bootstrap.|
