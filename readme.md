@@ -43,3 +43,4 @@ List Of Programs
 |24         |pyglet-not-a-game| Spent more time breaking things in pyglet|
 |25         |Weather Email App part 1|Set up the front end of a weather email app that is going to be the same as the one from day 22, but made using node.js, express and bootstrap.|
 |26         |Weather Email App part 2| Spent most of my programming time editing the wrong file and wondering why the express server wasnt working, so i was only able to get basic form functionally working.|
+|27         |Weather Email app 3| User is added to postgresql database when they register.|
