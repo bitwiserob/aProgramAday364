@@ -46,3 +46,4 @@ List Of Programs
 |27         |Weather Email app 3| User is added to postgresql database when they register.|
 |28         |Emailing Using Node| Made a node program that grabs the emails in the database and sends an email to those emails.|
 |29          |incomplete fragment|Messed around with json files, node and express.|
+|30          |Back 2 weather app| recreated the registration process. A user signs up, is sent an email and is added to a db.|
