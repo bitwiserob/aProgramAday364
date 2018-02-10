@@ -6,14 +6,14 @@ var client = new Client({
     user: 'draxnol',
     host: 'localhost',
     database: 'weather',
-    password: '1131',
+    password: '',
     port: 5432
 });
 var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'kaczurr@gmail.com',
-        pass: '4h!2IoCHe8@U'
+        user: '',
+        pass: ''
     }
 });
 
@@ -30,7 +30,7 @@ dataSet =
 
 function setMailOptions(toEmail, subject, text) {
     var mailOptions = {
-        from: 'kaczurr@gmail.com',
+        from: '',
         to: toEmail,
         subject: subject,
         text: text,
