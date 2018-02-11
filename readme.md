@@ -1,5 +1,9 @@
+epilogue
+=====
+After 30 days, I’ve decided to end this little challenge. When I first began, I didn’t know how long I wanted to it for, so I just decided to call the repo aprogramaday364. The intention was never to create a program a day for 364 days. I’ve decided to end now because while doing this challenge did teach me a lot, I haven’t had time to work on bigger projects.
+
 About
-================================================
+---
 The purpose of this repository is to create a small program a day for as long as possible.
 
 Rules
